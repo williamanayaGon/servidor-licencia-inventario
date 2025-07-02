@@ -1,0 +1,1 @@
+# servidor-licencia-inventario
